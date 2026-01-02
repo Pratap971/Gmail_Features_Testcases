@@ -1,4 +1,4 @@
-# Gmail_Features_Testcaes
+# Gmail_Features_Testcases
 This project is created for learning and demonstration purposes only. All test cases are written based on general Gmail functionality.  
  
 # 📌 Project Overview :  
