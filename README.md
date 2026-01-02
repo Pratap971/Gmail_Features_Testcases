@@ -8,8 +8,7 @@ The test cases are written using basic QA standards and focus on functional vali
 
 # This project is suitable for :  
 
-# QA / Manual Testing practice :   
-
+-  QA / Manual Testing practice    
 - Freshers & entry-level QA profiles  
 - Interview preparation  
 - GitHub portfolio showcase  
